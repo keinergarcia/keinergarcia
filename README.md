@@ -6,9 +6,6 @@
 
 <p align="center">
   <a name="contacto"></a>
-  <a href="https://github.com/keinergarcia" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.tiktok.com/@elchivalez" target="_blank">
     <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
