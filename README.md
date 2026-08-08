@@ -163,6 +163,8 @@ Actualmente fortalezco mis conocimientos en **desarrollo web**, **bases de datos
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@keinergarcia-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/keinergarcia)
+[![Correo](https://img.shields.io/badge/Correo-keinergarciaortiz%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:keinergarciaortiz@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-elchivalez.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://elchivalez.vercel.app/)
 
 </div>
 
