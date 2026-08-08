@@ -4,6 +4,21 @@
 
 ### 💻 Desarrollador de Software | 🚀 Tecnología | 🌱 Aprendizaje constante
 
+<p align="center">
+  <a name="contacto"></a>
+  <a href="https://github.com/keinergarcia" target="_blank" title="GitHub">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:keinergarciaortiz@gmail.com" target="_blank" title="Correo electrónico">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="30" height="30" alt="Correo electrónico" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://elchivalez.vercel.app/" target="_blank" title="Portafolio">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="30" height="30" alt="Portafolio" />
+  </a>
+</p>
+
 [![GitHub Seguidores](https://img.shields.io/github/followers/keinergarcia?label=Seguidores&style=for-the-badge&logo=github&color=0ea5e9&labelColor=1e293b)](https://github.com/keinergarcia)
 [![GitHub Estrellas](https://img.shields.io/github/stars/keinergarcia?label=Estrellas&style=for-the-badge&logo=github&color=fbbf24&labelColor=1e293b)](https://github.com/keinergarcia)
 ![Visitas](https://komarev.com/ghpvc/?username=keinergarcia&style=for-the-badge&color=34d399)
@@ -151,20 +166,6 @@ Actualmente fortalezco mis conocimientos en **desarrollo web**, **bases de datos
 <div align="center">
 
 <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=keinergarcia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
-## 📫 Contacto
-
-<a name="contacto"></a>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@keinergarcia-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/keinergarcia)
-[![Correo](https://img.shields.io/badge/Correo-keinergarciaortiz%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:keinergarciaortiz@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-elchivalez.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://elchivalez.vercel.app/)
 
 </div>
 
