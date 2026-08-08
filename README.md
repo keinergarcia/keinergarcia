@@ -9,8 +9,8 @@
   <a href="https://github.com/keinergarcia" target="_blank">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:keinergarciaortiz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico" />
+  <a href="https://www.tiktok.com/@elchivalez" target="_blank">
+    <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://elchivalez.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
