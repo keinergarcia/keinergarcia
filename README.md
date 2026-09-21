@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0ea5e9,100:7c3aed&height=240&section=header&text=ELCHIVALEZ&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=57&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:0ea5e9,100:7c3aed&height=240&section=header&text=ELCHIVALEZ&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=DESARROLLADOR%20DE%20SOFTWARE%20%E2%80%A2%20CREADOR%20%E2%80%A2%20SOLUCIONADOR%20DE%20PROBLEMAS&descAlignY=57&descSize=16&animation=twinkling" width="100%" />
+
+<a href="https://readme-typing-svg.demolab.com/">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=850&color=00E5FF&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Construyendo+software+con+prop%C3%B3sito.;Desarrollo+Web+%7C+Escritorio+%7C+Backend+%7C+Herramientas.;De+una+idea+a+un+sistema+real.;Aprender.+Construir.+Mejorar.+Repetir." alt="Animación de texto" />
+
+</a>
 
 <br>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=850&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building+software+with+purpose.;Web+%7C+Desktop+%7C+Backend+%7C+Tools;Turning+ideas+into+real+systems.;Always+learning.+Always+building." alt="Typing animation" />
-</a>
-
-<br><br>
-
 <a href="https://elchivalez.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_PORTAFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/keinergarcia">
@@ -24,7 +24,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=keinergarcia&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=keinergarcia&style=for-the-badge&color=00e5ff&label=VISITAS+AL+PERFIL" />
 
 </div>
 
@@ -32,30 +32,31 @@
 
 <div align="center">
 
-### `SYSTEM.STATUS`
+### `SISTEMA.EN_LÍNEA`
 
-`ONLINE` · `BUILDING` · `LEARNING` · `EVOLVING`
+`DESARROLLANDO`  •  `APRENDIENDO`  •  `MEJORANDO`  •  `CONSTRUYENDO`
 
 </div>
 
 ---
 
-## 🧬 `SYSTEM.IDENTITY`
+# 🧬 `IDENTIDAD.DEL.SISTEMA`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  USER            →  Keiner García                           │
-│  ALIAS           →  Elchivalez                              │
-│  ROLE            →  Software Developer                      │
+│  NOMBRE          →  Keiner García                            │
+│  ALIAS           →  Elchivalez                               │
+│  ROL             →  Desarrollador de Software                │
 │                                                              │
-│  FOCUS           →  Web Development                         │
-│                   →  Desktop Applications                   │
-│                   →  Backend & Databases                     │
-│                   →  Developer Tools                        │
+│  ENFOQUE         →  Desarrollo Web                           │
+│                  →  Aplicaciones de Escritorio               │
+│                  →  Backend y Bases de Datos                  │
+│                  →  Herramientas de Software                  │
 │                                                              │
-│  APPROACH        →  Build → Learn → Improve → Repeat        │
-│  CURRENT MODE    →  ████████████████████░░  BUILDING        │
+│  METODOLOGÍA     →  Construir → Aprender → Mejorar → Repetir │
+│                                                              │
+│  ESTADO          →  ████████████████████░░  CONSTRUYENDO     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -64,33 +65,33 @@ Soy desarrollador de software enfocado en transformar ideas y problemas reales e
 
 Me interesa construir sistemas completos combinando interfaces modernas, lógica de negocio, bases de datos, autenticación, automatización y arquitectura de software.
 
-Actualmente continúo fortaleciendo mis conocimientos y convirtiendo nuevas ideas en proyectos reales.
+Mi objetivo es seguir evolucionando como desarrollador mientras convierto ideas en proyectos reales y funcionales.
 
 ---
 
-# ⚙️ `TECH.STACK`
+# ⚙️ `TECNOLOGÍAS.Y.HERRAMIENTAS`
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Lenguajes
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,php,cs,html,css" />
 
 <br><br>
 
-### 🌐 Web Development
+### 🌐 Desarrollo Web
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,laravel,nodejs" />
 
 <br><br>
 
-### 🗄️ Database & Backend
+### 🗄️ Bases de Datos y Backend
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,sqlite" />
 
 <br><br>
 
-### 🔧 Tools & Platforms
+### 🔧 Herramientas y Plataformas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,unity,blender" />
 
@@ -98,66 +99,89 @@ Actualmente continúo fortaleciendo mis conocimientos y convirtiendo nuevas idea
 
 ---
 
-# 🚀 `FEATURED.PROJECTS`
+# 🚀 `PROYECTOS.DESTACADOS`
 
 <div align="center">
 
 ## 🏗️ BuildControl
 
-### `Construction Management & Financial Control`
+### `Gestión de Obras y Control Financiero`
+
+<br>
 
 <a href="https://github.com/keinergarcia/BuildControl">
 
-<!-- REEMPLAZAR POR EL LOGO REAL DE BUILDCONTROL -->
-
-<img src="https://raw.githubusercontent.com/keinergarcia/BuildControl/main/public/REEMPLAZAR-CON-EL-LOGO-REAL.svg" width="150" alt="BuildControl logo" />
+<img
+src="https://raw.githubusercontent.com/keinergarcia/BuildControl/main/assets/logo.svg"
+width="180"
+alt="Logo de BuildControl"
+/>
 
 </a>
 
 <br><br>
 
 <a href="https://github.com/keinergarcia/BuildControl">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
 
-<a href="https://keinergarcia.github.io/BuildControl/">
-<img src="https://img.shields.io/badge/LIVE_APP-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/VER_REPOSITORIO-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
+
 </a>
 
 </div>
 
-### 🏗️ Sobre el proyecto
+### 🏗️ ¿Qué es BuildControl?
 
-**BuildControl** es una plataforma para gestionar, controlar y analizar financieramente obras y proyectos de construcción.
+**BuildControl** es un sistema orientado a la gestión y control financiero de proyectos de construcción.
 
-El repositorio documenta funcionalidades para presupuestos, gastos, ingresos, pagos a trabajadores y retiros, junto con dashboard financiero, reportes e insights.
+El proyecto integra gestión de información de obras, control de gastos, ingresos, pagos, retiros y análisis financiero mediante un panel de control.
+
+La aplicación está construida con una arquitectura moderna orientada a separar la interfaz, la lógica de negocio y la gestión de datos.
 
 ### 🧠 Arquitectura
 
 ```text
                          BUILDCONTROL
                               │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-         FRONTEND        BUSINESS LOGIC      DATA
-             │                │                │
-             │                │                │
-        React 19        Financial Engine    Supabase
-        TypeScript             │            PostgreSQL
-        Vite                   │            Storage
-        Tailwind 4             │            Auth
-        shadcn/ui              │            Edge Functions
-        Motion                 │
-        Recharts               ▼
-             │           Calculations
-             │                │
-             └────────────────┼────────────────┘
+               ┌──────────────┼──────────────┐
+               │              │              │
+               ▼              ▼              ▼
+          INTERFAZ        LÓGICA          DATOS
+               │          NEGOCIO            │
+               │              │              │
+          React 19      Motor financiero   Supabase
+          TypeScript           │           PostgreSQL
+          Vite                 │           Auth
+          Tailwind             │           Storage
+          shadcn/ui            ▼
+          Motion          Cálculos
+          Recharts             │
+               │              │
+               └──────────────┼──────────────┘
+                              │
                               ▼
-                       FINANCIAL SYSTEM
+                     CONTROL FINANCIERO
 ```
 
-### 🛠️ Stack
+### ⚡ Características
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  📊 Panel financiero                                │
+│  💰 Control de ingresos                             │
+│  💸 Control de gastos                               │
+│  👷 Gestión de pagos                                │
+│  🏦 Control de retiros                              │
+│  📈 Análisis financiero                             │
+│  📋 Presupuestos                                    │
+│  🧮 Motor de cálculos                               │
+│  🔐 Autenticación                                   │
+│  🗄️ Persistencia de datos                           │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+### 🛠️ Tecnologías
 
 <div align="center">
 
@@ -165,32 +189,29 @@ El repositorio documenta funcionalidades para presupuestos, gastos, ingresos, pa
 
 <br><br>
 
-`React 19` · `TypeScript` · `Vite` · `Tailwind CSS 4`
+`React` · `TypeScript` · `Vite` · `Tailwind CSS`
 
 `shadcn/ui` · `Motion` · `TanStack Query` · `Recharts`
 
-`React Hook Form` · `Zod` · `Supabase`
+`React Hook Form` · `Zod` · `Supabase` · `PostgreSQL`
 
-`PostgreSQL` · `Vitest` · `React Testing Library`
+`Vitest` · `React Testing Library`
 
 </div>
 
-### 💰 Motor financiero
+<br>
 
-BuildControl separa dos conceptos:
+<a href="https://github.com/keinergarcia/BuildControl">
 
-```text
-RENTABILIDAD
-= Valor del contrato
-  − costos
+<img src="https://img.shields.io/github/stars/keinergarcia/BuildControl?style=for-the-badge&logo=github&label=ESTRELLAS" />
 
-FLUJO DE DINERO
-= Dinero recibido
-  − costos pagados
-  − retiros personales
-```
+</a>
 
-El repositorio documenta un motor financiero basado en funciones puras testeadas dentro de `src/engine/calculations.ts`.
+<a href="https://github.com/keinergarcia/BuildControl">
+
+<img src="https://img.shields.io/github/last-commit/keinergarcia/BuildControl?style=for-the-badge&label=ÚLTIMA%20ACTUALIZACIÓN" />
+
+</a>
 
 ---
 
@@ -198,91 +219,115 @@ El repositorio documenta un motor financiero basado en funciones puras testeadas
 
 ## 🧴 AROMIA WEB
 
-### `Desktop Software · Licensing Platform`
+### `Plataforma Web · Licenciamiento · AROMIA Desktop`
+
+<br>
 
 <a href="https://github.com/keinergarcia/Aromia_web">
 
-<!-- REEMPLAZAR POR EL LOGO REAL DE AROMIA -->
-
-<img src="https://raw.githubusercontent.com/keinergarcia/Aromia_web/main/public/REEMPLAZAR-CON-EL-LOGO-REAL.svg" width="150" alt="AROMIA logo" />
+<img
+src="https://raw.githubusercontent.com/keinergarcia/Aromia_web/main/public/logo.png"
+width="180"
+alt="Logo de AROMIA"
+/>
 
 </a>
 
 <br><br>
 
 <a href="https://github.com/keinergarcia/Aromia_web">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
-<a href="https://keinergarcia.github.io/Aromia_web/">
-<img src="https://img.shields.io/badge/LIVE_PLATFORM-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+<img src="https://img.shields.io/badge/VER_REPOSITORIO-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 </div>
 
-### 🧴 Sobre el proyecto
+### 🧴 ¿Qué es AROMIA Web?
 
-**AROMIA Web** es el portal web que acompaña a **AROMIA Desktop**, un sistema de gestión de productos aromáticos.
+**AROMIA Web** es la plataforma web que acompaña al sistema **AROMIA Desktop**.
 
-El proyecto incluye landing pública, autenticación, panel privado de usuario, descargas, licencias, dispositivos y panel administrativo.
+El proyecto incorpora una plataforma pública y un área privada para usuarios, incluyendo autenticación, gestión de cuenta, licencias, dispositivos y distribución del software.
 
-También incorpora un sistema de licenciamiento mediante **Supabase Edge Functions**, firma **Ed25519** y validación de licencias.
+También integra infraestructura mediante **Supabase**, funciones Edge y un sistema de licenciamiento basado en criptografía.
 
-### 🔐 Arquitectura
-
-```text
-                            AROMIA
-                              │
-                 ┌────────────┴────────────┐
-                 │                         │
-                 ▼                         ▼
-            AROMIA WEB               AROMIA DESKTOP
-                 │                         │
-       ┌─────────┼─────────┐               │
-       │         │         │               │
-       ▼         ▼         ▼               ▼
-     AUTH      USER      ADMIN        LICENSE SYSTEM
-       │         │         │               │
-       └─────────┼─────────┘               │
-                 │                         │
-                 ▼                         │
-             SUPABASE ◄────────────────────┘
-                 │
-        ┌────────┴────────┐
-        ▼                 ▼
-   PostgreSQL       Edge Functions
-                          │
-                          ▼
-                      Ed25519
-```
-
-### 🔐 Sistema de licencias
+### 🧠 Arquitectura
 
 ```text
-USER
- │
- ▼
-LOGIN
- │
- ▼
-DASHBOARD
- │
- ├── ACCOUNT
- ├── DOWNLOADS
- ├── LICENSE
- └── DEVICES
-       │
-       ▼
-  LICENSE VALIDATION
-       │
-       ▼
- SUPABASE EDGE FUNCTIONS
-       │
-       ▼
-    Ed25519
+                           AROMIA
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+              ▼                             ▼
+        AROMIA WEB                    AROMIA DESKTOP
+              │                             │
+       ┌──────┼──────┐                      │
+       │      │      │                      │
+       ▼      ▼      ▼                      ▼
+      AUTH   USUARIO ADMIN              LICENCIA
+       │      │      │                      │
+       └──────┼──────┘                      │
+              │                             │
+              ▼                             │
+          SUPABASE ◄────────────────────────┘
+              │
+        ┌─────┴─────┐
+        ▼           ▼
+   PostgreSQL   Edge Functions
+                    │
+                    ▼
+                 Ed25519
 ```
 
-### 🛠️ Stack
+### 🔐 Sistema de licenciamiento
+
+```text
+                 USUARIO
+                    │
+                    ▼
+                 LOGIN
+                    │
+                    ▼
+                PANEL WEB
+                    │
+          ┌─────────┼─────────┐
+          │         │         │
+          ▼         ▼         ▼
+       CUENTA    LICENCIA  DISPOSITIVOS
+                    │
+                    ▼
+            VALIDACIÓN DE LICENCIA
+                    │
+                    ▼
+            SUPABASE EDGE FUNCTIONS
+                    │
+                    ▼
+                 ED25519
+                    │
+                    ▼
+            AROMIA DESKTOP
+```
+
+### ⚡ Componentes
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  🌐 Sitio web                                      │
+│  🔐 Autenticación                                  │
+│  👤 Panel de usuario                               │
+│  📦 Descargas                                      │
+│  🔑 Gestión de licencias                           │
+│  💻 Gestión de dispositivos                        │
+│  🛡️ Funciones Edge                                │
+│  🔏 Firma Ed25519                                  │
+│  🗄️ Base de datos                                 │
+│  ⚙️ Panel administrativo                           │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+### 🛠️ Tecnologías
 
 <div align="center">
 
@@ -298,171 +343,191 @@ DASHBOARD
 
 </div>
 
-### 📦 AROMIA Desktop
+<br>
 
-La plataforma documenta actualmente:
+<a href="https://github.com/keinergarcia/Aromia_web">
 
-```text
-VERSION       → 1.0.0
-PLATFORM      → Windows x64
-RELEASE       → 04/09/2026
-INSTALLER     → 54.1 MB
-```
+<img src="https://img.shields.io/github/stars/keinergarcia/Aromia_web?style=for-the-badge&logo=github&label=ESTRELLAS" />
 
-La distribución del instalador está integrada en el panel de usuario y el sistema utiliza la licencia emitida desde el panel administrativo para activar AROMIA Desktop.
+</a>
+
+<a href="https://github.com/keinergarcia/Aromia_web">
+
+<img src="https://img.shields.io/github/last-commit/keinergarcia/Aromia_web?style=for-the-badge&label=ÚLTIMA%20ACTUALIZACIÓN" />
+
+</a>
 
 ---
 
-# 🧠 `WHAT.I.BUILD`
+# 🧠 `QUÉ.CONSTRUYO`
 
 ```text
                     ┌───────────────────────┐
-                    │      IDEA / PROBLEM   │
+                    │      IDEA / PROBLEMA  │
                     └───────────┬───────────┘
                                 │
                                 ▼
                     ┌───────────────────────┐
-                    │      ARCHITECTURE     │
+                    │      ARQUITECTURA     │
                     └───────────┬───────────┘
                                 │
                 ┌───────────────┼───────────────┐
                 │               │               │
                 ▼               ▼               ▼
            ┌─────────┐     ┌─────────┐     ┌─────────┐
-           │   WEB   │     │ DESKTOP │     │ SYSTEMS │
+           │   WEB   │     │ ESCRITORIO│    │ SISTEMAS│
            └────┬────┘     └────┬────┘     └────┬────┘
                 │               │               │
                 └───────────────┼───────────────┘
                                 │
                                 ▼
                     ┌───────────────────────┐
-                    │     TEST / IMPROVE    │
+                    │    PRUEBA / MEJORA    │
                     └───────────┬───────────┘
                                 │
                                 ▼
                     ┌───────────────────────┐
-                    │      REAL SOFTWARE    │
+                    │     SOFTWARE REAL     │
                     └───────────────────────┘
 ```
 
 ---
 
-# 🧩 `CURRENT.FOCUS`
+# 🧩 `ENFOQUE.ACTUAL`
 
 ```text
-[01] ████████████████████  Web Development
-[02] ██████████████████░░  Software Architecture
-[03] █████████████████░░░  Databases & Backend
-[04] ████████████████░░░░  Desktop Applications
-[05] ███████████████░░░░░  Automation & Developer Tools
-[06] ██████████████░░░░░░  New Technologies
+[01] ████████████████████  Desarrollo Web
+[02] ██████████████████░░  Arquitectura de Software
+[03] █████████████████░░░  Bases de Datos y Backend
+[04] ████████████████░░░░  Aplicaciones de Escritorio
+[05] ███████████████░░░░░  Automatización y Herramientas
+[06] ██████████████░░░░░░  Nuevas Tecnologías
 ```
 
 ---
 
-# 📊 `GITHUB.METRICS`
+# 📊 `ESTADÍSTICAS.DE.GITHUB`
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=keinergarcia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=keinergarcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
 height="180"
-alt="GitHub statistics"
+alt="Estadísticas de GitHub"
 />
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=keinergarcia&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
 height="180"
-alt="Top languages"
+alt="Lenguajes más utilizados"
 />
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=keinergarcia&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=keinergarcia&theme=tokyonight&hide_border=true&locale=es"
 height="180"
-alt="GitHub contribution streak"
+alt="Racha de contribuciones"
 />
 
 </div>
 
 ---
 
-# 📈 `ACTIVITY.PROTOCOL`
+# 📈 `ACTIVIDAD`
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=keinergarcia&theme=tokyo-night&hide_border=true&area=true&custom_title=ELCHIVALEZ%20ACTIVITY"
+src="https://github-readme-activity-graph.vercel.app/graph?username=keinergarcia&theme=tokyo-night&hide_border=true&area=true&custom_title=ACTIVIDAD%20DE%20ELCHIVALEZ"
 width="95%"
-alt="GitHub activity graph"
+alt="Gráfico de actividad de GitHub"
 />
 
 </div>
 
 ---
 
-# 🐍 `CONTRIBUTION.ANIMATION`
+# 🐍 `ANIMACIÓN.DE.CONTRIBUCIONES`
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/keinergarcia/keinergarcia/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/keinergarcia/keinergarcia/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/keinergarcia/keinergarcia/output/github-snake.svg"
-    width="95%"
-  />
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/keinergarcia/keinergarcia/output/github-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/keinergarcia/keinergarcia/output/github-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/keinergarcia/keinergarcia/output/github-snake.svg"
+width="95%"
+alt="Animación de contribuciones de GitHub"
+/>
+
 </picture>
 
 </div>
 
 ---
 
-# 🏆 `ACHIEVEMENTS`
+# 🏆 `LOGROS`
 
 <div align="center">
 
 <img
 src="https://github-profile-trophy.vercel.app/?username=keinergarcia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
 width="95%"
-alt="GitHub trophies"
+alt="Logros de GitHub"
 />
 
 </div>
 
 ---
 
-# 🌐 `CONNECT`
+# 🌐 `CONTACTO`
 
 <div align="center">
 
 <a href="https://elchivalez.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+
+<img
+src="https://img.shields.io/badge/PORTAFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black"
+/>
+
 </a>
 
 <a href="https://github.com/keinergarcia">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img
+src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
+
 </a>
 
 <a href="https://www.tiktok.com/@elchivalez">
-<img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+
+<img
+src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"
+/>
+
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:7c3aed&height=2&section=footer" width="70%" />
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0ea5e9,100:7c3aed&height=3"
+width="70%"
+/>
 
-<br>
+<br><br>
 
-### `BUILDING SOFTWARE. LEARNING EVERY DAY. 🚀`
+### `CONSTRUIR. APRENDER. MEJORAR. REPETIR.`
 
 </div>
 
@@ -470,6 +535,9 @@ alt="GitHub trophies"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:0ea5e9,70:0f172a,100:020617&height=150&section=footer&animation=fadeIn" width="100%" />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:0ea5e9,70:0f172a,100:020617&height=150&section=footer&animation=twinkling"
+width="100%"
+/>
 
 </div>
