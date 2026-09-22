@@ -23,31 +23,28 @@ OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "logros.svg")
 def build_svg(rows):
     """Arma el panel oscuro con los logros que consiguio capturar."""
     n = len(rows)
-    badge_svg = " ".join(
-        f'<g transform="translate(0 {i * 44})">'
-        '<rect x="620" y="-30" width="150" height="36" rx="18" '
-        'fill="#0b1220" stroke="#fbbf24" stroke-opacity="0.35"/>'
-        '<text x="695" y="-7" text-anchor="middle" font-size="14" '
-        'font-family="Consolas,monospace" font-weight="700" fill="#fde68a">'
-        f"ACEPTADO · {i + 1}</text></g>"
-        for i in range(n)
-    )
+    cols, step, x0, y0 = 5, 96, 150, 86
+    grid_rows = (n + cols - 1) // cols
+    footer_y = y0 + grid_rows * step + 20
+    height = footer_y + 56
     images = "\n".join(
-        f'<g transform="translate({150 + (i % 5) * 96} {86 + (i // 5) * 96})">'
+        f'<g transform="translate({x0 + (i % cols) * step} {y0 + (i // cols) * step})">'
         '<circle cx="40" cy="40" r="50" fill="#fbbf24" opacity="0.10">'
-        "<animate attributeName=\"opacity\" values=\"0.10;0.28;0.10\" "
-        'dur="3s" begin="%ss" repeatCount="indefinite"/></circle>'
-        f"<image href=\"data:image/png;base64,{rows[i]}\" width=\"84\" "
-        'height="84" preserveAspectRatio="xMidYMid meet"/>'
-        '<animateTransform attributeName="transform" type="translate" '
+        f'<animate attributeName="opacity" values="0.10;0.28;0.10" dur="3s" '
+        f'begin="{i * 0.3}s" repeatCount="indefinite"/></circle>'
+        f'<image href="data:image/png;base64,{rows[i]}" width="84" height="84" '
+        'preserveAspectRatio="xMidYMid meet">'
+        f'<animateTransform attributeName="transform" type="translate" '
         f'values="0 6;0 0;0 6" dur="4s" begin="{i * 0.3}s" '
-        "repeatCount=\"indefinite\"/></g>"
+        'repeatCount="indefinite"/></image>'
+        f'<circle cx="69" cy="13" r="12" fill="#fbbf24"/>'
+        f'<text x="69" y="17" text-anchor="middle" font-size="12" font-weight="800" '
+        'font-family="Consolas,monospace" fill="#020617">'
+        f'{i + 1}</text></g>'
         for i in range(n)
     )
-    title = (
-        "UN LOGRO GANADO" if n == 1 else f"{n} LOGROS GANADOS"
-    )
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 520" role="img" aria-label="Logros de GitHub de {GH_USER}">
+    title = "UN LOGRO GANADO" if n == 1 else f"{n} LOGROS GANADOS"
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 {height}" role="img" aria-label="Logros de GitHub de {GH_USER}">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#020617"/><stop offset="100%" stop-color="#0b1220"/>
@@ -58,8 +55,8 @@ def build_svg(rows):
     </linearGradient>
     <filter id="neon" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect x="0" y="0" width="660" height="520" rx="26" fill="url(#bg)"/>
-  <rect x="2" y="2" width="656" height="516" rx="24" fill="none" stroke="url(#brd)" stroke-width="3"/>
+  <rect x="0" y="0" width="660" height="{height}" rx="26" fill="url(#bg)"/>
+  <rect x="2" y="2" width="656" height="{height - 4}" rx="24" fill="none" stroke="url(#brd)" stroke-width="3"/>
 
   <g font-family="'Segoe UI','Cascadia Code',Consolas,monospace" opacity="0">
     <animate attributeName="opacity" values="0;1" begin="0.3s" dur="0.5s" fill="freeze"/>
@@ -79,11 +76,9 @@ def build_svg(rows):
 
   <g font-family="'Segoe UI',Consolas,monospace" font-size="14" opacity="0">
     <animate attributeName="opacity" values="0;1" begin="{1 + n * 0.2}s" dur="0.4s" fill="freeze"/>
-    <text x="330" y="{430 + (n // 5) * 96}" text-anchor="middle" fill="#94a3b8">
-      {n} logro{n if n == 1 else "s"} ganado{n if n == 1 else "s"} en GitHub · generado por GitHub Actions</text>
+    <text x="330" y="{footer_y}" text-anchor="middle" fill="#94a3b8">
+      {n} logro{'s' if n != 1 else ''} ganado{'s' if n != 1 else ''} en GitHub · generado por GitHub Actions</text>
   </g>
-
-  {badge_svg}
 </svg>
 """
 
