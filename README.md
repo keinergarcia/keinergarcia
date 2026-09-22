@@ -202,11 +202,15 @@ Plataforma web que complementa el ecosistema de **AROMIA**, integrando autentica
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keinergarcia&theme=tokyo-night&hide_border=true&area=true&custom_title=ACTIVIDAD%20DE%20ELCHIVALEZ" width="100%" alt="Actividad de GitHub"/>
+<img src="https://ghactivity.mrayush.me/graph?username=keinergarcia&theme=tokyo-night&hide_border=true&area=true&custom_title=ACTIVIDAD%20DE%20ELCHIVALEZ&bg_color=0d1117" width="100%" alt="Actividad de GitHub"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/keinergarcia/keinergarcia/output/github-snake.svg" alt="Animación de contribuciones"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keinergarcia/keinergarcia/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keinergarcia/keinergarcia/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/keinergarcia/keinergarcia/output/github-snake.svg" alt="Animación de contribuciones"/>
+</picture>
 
 </div>
 
