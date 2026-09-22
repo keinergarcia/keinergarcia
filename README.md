@@ -162,17 +162,11 @@ Plataforma web que complementa el ecosistema de **AROMIA**, integrando autentica
 
 ## `> LO QUE CONSTRUYO`
 
-```text
-▸ Aplicaciones web
-▸ Aplicaciones de escritorio
-▸ Sistemas administrativos
-▸ Herramientas de software
-▸ Integraciones con bases de datos
-▸ Automatización de procesos
-▸ Soluciones orientadas a datos
-▸ Soluciones con modelos de IA (LLMs)
-▸ Agentes y automatización inteligente
-```
+<div align="center">
+
+<img src="assets/construyo.svg" width="820" alt="Construcción en marcha: aplicaciones web, aplicaciones de escritorio, sistemas administrativos, herramientas de software, integraciones con bases de datos, automatización de procesos, soluciones orientadas a datos, soluciones con modelos de IA (LLMs) y agentes de automatización inteligente"/>
+
+</div>
 
 ---
 
