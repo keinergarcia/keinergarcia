@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 360" role="img" aria-label="Enfoque actual: desarrollo de software, arquitectura, backend, datos, LLMs, agentes, IA, automatización y construcción de productos reales">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#c084fc;#e879f9;#22d3ee" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#c084fc">
+        <animate attributeName="stop-color" values="#c084fc;#e879f9;#22d3ee;#c084fc" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#e879f9">
+        <animate attributeName="stop-color" values="#e879f9;#22d3ee;#c084fc;#e879f9" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="820" height="360" fill="url(#bg)"/>
+  <rect x="0" y="0" width="820" height="360" fill="url(#grid)" opacity="0.35"/>
+
+  <g>
+    <rect x="24" y="36" width="772" height="288" rx="16" fill="#0b1524" stroke="url(#frame)" stroke-width="2"/>
+    <rect x="24" y="36" width="772" height="288" rx="16" fill="none" stroke="#e0f2fe" stroke-width="1.5" stroke-dasharray="2100">
+      <animate attributeName="stroke-dashoffset" values="2100;0;0;2100" keyTimes="0;0.3;0.9;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="24" y="36" width="772" height="288" rx="16" fill="none" stroke="#0b1524" stroke-width="6" stroke-dasharray="0 2100" opacity="0"/>
+  </g>
+
+  <g>
+    <circle cx="28" cy="40" r="4" fill="#e879f9" opacity="0.9"><animate attributeName="opacity" values="1;0.25;1" dur="2s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="792" cy="40" r="4" fill="#22d3ee" opacity="0.9"><animate attributeName="opacity" values="1;0.25;1" dur="2s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="28" cy="320" r="4" fill="#c084fc" opacity="0.9"><animate attributeName="opacity" values="1;0.25;1" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="792" cy="320" r="4" fill="#34d399" opacity="0.9"><animate attributeName="opacity" values="1;0.25;1" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g>
+    <rect x="48" y="65" width="724" height="30" rx="8" fill="#22d3ee" opacity="0">
+      <animate attributeName="opacity" values="0;0.22;0" keyTimes="0;0.2;0.45" dur="5.4s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="48" y="125" width="724" height="30" rx="8" fill="#22d3ee" opacity="0">
+      <animate attributeName="opacity" values="0;0.22;0" keyTimes="0;0.2;0.45" dur="5.4s" begin="1.35s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="48" y="185" width="724" height="30" rx="8" fill="#22d3ee" opacity="0">
+      <animate attributeName="opacity" values="0;0.22;0" keyTimes="0;0.2;0.45" dur="5.4s" begin="2.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="48" y="245" width="724" height="30" rx="8" fill="#22d3ee" opacity="0">
+      <animate attributeName="opacity" values="0;0.22;0" keyTimes="0;0.2;0.45" dur="5.4s" begin="4.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g font-family="'Segoe UI','JetBrains Mono',Consolas,monospace" text-anchor="middle">
+    <text x="410" y="90" font-size="24" font-weight="800" fill="#f1f5f9">DESARROLLO DE SOFTWARE</text>
+    <text x="410" y="150" font-size="20" fill="#7dd3fc">ARQUITECTURA · BACKEND · DATOS</text>
+    <text x="410" y="210" font-size="20" fill="#c084fc">LLMs · AGENTES · IA · AUTOMATIZACIÓN</text>
+    <text x="410" y="270" font-size="20" fill="#34d399">CONSTRUCCIÓN DE PRODUCTOS REALES</text>
+  </g>
+</svg>

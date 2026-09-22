@@ -68,6 +68,59 @@ También trabajo con **los nuevos modelos de inteligencia artificial**: integro 
 
 ---
 
+# `> PROYECTOS DESTACADOS`
+
+## `01` · BuildControl
+
+<div align="center">
+
+<a href="https://github.com/keinergarcia/BuildControl">
+
+<img src="https://raw.githubusercontent.com/keinergarcia/BuildControl/main/assets/logo.svg" width="180" alt="Logo de BuildControl"/>
+
+</a>
+
+### Sistema de gestión y control para proyectos de construcción
+
+Plataforma enfocada en la **gestión financiera y operativa de proyectos de construcción**, con herramientas para organizar información y realizar seguimiento de los recursos del proyecto.
+
+**Tecnologías:** React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL
+
+<br>
+
+<a href="https://github.com/keinergarcia/BuildControl">
+<img src="https://img.shields.io/badge/VER_REPOSITORIO-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio de BuildControl"/>
+</a>
+
+</div>
+
+---
+
+## `02` · AROMIA
+
+<div align="center">
+
+<a href="https://github.com/keinergarcia/Aromia_web">
+
+<img src="https://raw.githubusercontent.com/keinergarcia/Aromia_web/main/public/logo.png" width="180" alt="Logo de AROMIA"/>
+
+</a>
+
+### Plataforma web del ecosistema AROMIA
+
+Plataforma web que complementa el ecosistema de **AROMIA**, integrando autenticación, gestión de usuarios, licencias y servicios backend.
+
+**Tecnologías:** React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL · Edge Functions
+
+<br>
+
+<a href="https://github.com/keinergarcia/Aromia_web">
+<img src="https://img.shields.io/badge/VER_REPOSITORIO-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio de AROMIA"/>
+</a>
+
+</div>
+
+---
 
 ## `> LO QUE CONSTRUYO`
 
@@ -83,19 +136,7 @@ También trabajo con **los nuevos modelos de inteligencia artificial**: integro 
 
 <div align="center">
 
-```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   DESARROLLO DE SOFTWARE                      │
-│                                               │
-│   ARQUITECTURA · BACKEND · DATOS              │
-│                                               │
-│   LLMs · AGENTES · IA · AUTOMATIZACIÓN        │
-│                                               │
-│   CONSTRUCCIÓN DE PRODUCTOS REALES            │
-│                                               │
-└───────────────────────────────────────────────┘
-```
+<img src="assets/enfoque.svg" width="820" alt="Enfoque actual: desarrollo de software, arquitectura, backend, datos, LLMs, agentes, IA, automatización y construcción de productos reales"/>
 
 </div>
 
