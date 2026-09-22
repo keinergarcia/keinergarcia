@@ -1,0 +1,55 @@
+name: Actualizar logros
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: logros
+  cancel-in-progress: false
+
+jobs:
+  sincronizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar Playwright
+        run: |
+          pip install --no-cache-dir playwright pytest
+          python -m playwright install --with-deps chromium
+        shell: bash
+
+      - name: Capturar logros
+        env:
+          GH_USER: keinergarcia
+          GH_SESSION_COOKIE: ${{ secrets.GH_SESSION_COOKIE }}
+          GH_TOKEN_FOR_README: ${{ github.token }}
+        run: python scripts/actualizar_logros.py
+
+      - name: Publicar
+        if: ${{ hashFiles('assets/logros.svg') != hashFiles('assets/logros_base.svg') }}
+        run: |
+          git config user.name "keiner-bot"
+          git config user.email "keinergarciaortiz@gmail.com"
+          git add assets/logros.svg
+          if git diff --cached --quiet; then
+            echo "Sin cambios; lista para la próxima captura."
+          else
+            git commit -m "LOGROS: captura automática del panel de GitHub Achievements"
+            git push origin HEAD:main
+          fi
+        shell: bash
