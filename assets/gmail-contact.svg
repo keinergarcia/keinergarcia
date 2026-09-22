@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 562 108" role="img" aria-label="Correo: keinergarciaortiz@gmail.com">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617">
+        <animate attributeName="stop-color" values="#020617;#3b0a0a;#1e3a5f;#020617" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#450a0a;#1e3a8a;#0f172a" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#450a0a">
+        <animate attributeName="stop-color" values="#450a0a;#1e3a5f;#1c1917;#450a0a" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="brd" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EA4335">
+        <animate attributeName="stop-color" values="#EA4335;#FBBC05;#34A853;#4285F4;#EA4335" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="33%" stop-color="#FBBC05">
+        <animate attributeName="stop-color" values="#FBBC05;#34A853;#4285F4;#EA4335;#FBBC05" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="66%" stop-color="#34A853">
+        <animate attributeName="stop-color" values="#34A853;#4285F4;#EA4335;#FBBC05;#34A853" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#4285F4">
+        <animate attributeName="stop-color" values="#4285F4;#EA4335;#FBBC05;#34A853;#4285F4" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fb923c" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#EA4335" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#EA4335" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="562" height="108" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <rect width="562" height="108" rx="26" fill="url(#bg)"/>
+  <rect x="2" y="2" width="558" height="104" rx="24" fill="none" stroke="url(#brd)" stroke-width="3">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <g clip-path="url(#clip)">
+    <rect x="-620" y="0" width="620" height="108" fill="url(#sweep)">
+      <animate attributeName="x" values="-620;620" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <circle cx="58" cy="54" fill="url(#halo)">
+    <animate attributeName="r" values="38;54;38" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <g transform="translate(58,54) scale(2.4) translate(-12,-12)" filter="url(#glow)">
+    <path fill="#ffffff" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+  </g>
+
+  <text x="128" y="50" font-family="'Segoe UI','JetBrains Mono',Consolas,monospace" font-size="27" font-weight="800" fill="#ffffff" letter-spacing="1">Email</text>
+  <text x="128" y="82" font-family="'Segoe UI','JetBrains Mono',Consolas,monospace" font-size="23" font-weight="700" fill="#fdba74" letter-spacing="0.5">keinergarciaortiz@gmail.com</text>
+
+  <g>
+    <circle cx="530" cy="18" r="6" fill="#FBBC05" opacity="0.25">
+      <animate attributeName="r" values="6;14;6" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0;0.35" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="530" cy="18" r="5" fill="#34A853">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

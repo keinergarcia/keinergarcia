@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 402 108" role="img" aria-label="WhatsApp: +57 316 761 9309">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617">
+        <animate attributeName="stop-color" values="#020617;#052e16;#064e3b;#020617" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#064e3b;#0c4a6e;#0f172a" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#064e3b">
+        <animate attributeName="stop-color" values="#064e3b;#0c4a6e;#022c22;#064e3b" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="brd" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#25D366">
+        <animate attributeName="stop-color" values="#25D366;#22d3ee;#818cf8;#25D366" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#818cf8;#25D366;#22d3ee" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#818cf8">
+        <animate attributeName="stop-color" values="#818cf8;#25D366;#22d3ee;#818cf8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#5eead4" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#25D366" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#25D366" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="402" height="108" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <rect width="402" height="108" rx="26" fill="url(#bg)"/>
+  <rect x="2" y="2" width="398" height="104" rx="24" fill="none" stroke="url(#brd)" stroke-width="3">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <g clip-path="url(#clip)">
+    <rect x="-460" y="0" width="460" height="108" fill="url(#sweep)">
+      <animate attributeName="x" values="-460;460" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <circle cx="54" cy="54" fill="url(#halo)">
+    <animate attributeName="r" values="38;52;38" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <g transform="translate(54,54) scale(2) translate(-12,-12)" filter="url(#glow)">
+    <path fill="#ffffff" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421-2.06c-1.291-.377-1.527-.455-1.985-.286-.494.18-.84.89-.84.89s-.158.284-.025.029c.198-.364.727-1.346 1.114-1.689.495-.433.891-.653 1.095-.653.243 0 .347.18.347.18s.545 1.193.712 1.589c.17.396-.101.789-.404.94-.198.099-.475.074-.367-.018l-.008.001m2.865-2.643c.416.438.745.813.829.813.089.003.193-.003.302-.212.082-.173.522-.977.703-1.362.18-.396-.49-.911-.767-1.062-.28-.14-.545-.152-.806.018-.6.376-.852 1.214-.852 1.214s-.113.223-.024.297c.09.074.297.21.615.294zM17.04 2.04c-4.189 0-7.594 3.405-7.594 7.595 0 1.339.35 2.645 1.013 3.796L10.4 17.55l4.183-1.176a7.54 7.54 0 0 0 2.457.403h-.006c4.188 0 7.593-3.405 7.593-7.594 0-4.191-3.405-7.595-7.594-7.595zM12.64 21.6h-.01a8.43 8.43 0 0 1-6.842-3.541l-.157-.228L3.074 20.52l1.57-3.94-.154-.223a8.43 8.43 0 0 1-1.55-4.905C2.94 7.084 7.162 2.862 12.64 2.862c2.631 0 5.104 1.027 6.964 2.89a9.78 9.78 0 0 1 2.883 6.967c0 5.477-4.222 9.699-9.699 9.699m6.88-16.567A9.9 9.9 0 0 0 12.64 0C5.666 0 0 5.665 0 12.64c0 2.23.583 4.41 1.688 6.334L0 24l5.183-1.622a12.6 12.6 0 0 0 6.03 1.536h.005C17.931 23.816 24 17.744 24 10.714A10.2 10.2 0 0 0 21.62 5.45z"/>
+  </g>
+
+  <text x="124" y="50" font-family="'Segoe UI','JetBrains Mono',Consolas,monospace" font-size="27" font-weight="800" fill="#ffffff" letter-spacing="1">WhatsApp</text>
+  <text x="124" y="82" font-family="'Segoe UI','JetBrains Mono',Consolas,monospace" font-size="23" font-weight="700" fill="#5eead4" letter-spacing="1.5">+57 · 316 761 9309</text>
+
+  <g>
+    <circle cx="372" cy="18" r="6" fill="#25D366" opacity="0.25">
+      <animate attributeName="r" values="6;14;6" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0;0.35" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="372" cy="18" r="5" fill="#22c55e">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 402 108" role="img" aria-label="Telegram: @ElChivalez">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617">
+        <animate attributeName="stop-color" values="#020617;#0c4a6e;#020617" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#083344;#0f172a" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#083344">
+        <animate attributeName="stop-color" values="#083344;#082f49;#083344" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="brd" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#229ED9">
+        <animate attributeName="stop-color" values="#229ED9;#38bdf8;#818cf8;#229ED9" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#229ED9;#38bdf8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#818cf8">
+        <animate attributeName="stop-color" values="#818cf8;#229ED9;#38bdf8;#818cf8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7dd3fc" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#229ED9" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#229ED9" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="402" height="108" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <rect width="402" height="108" rx="26" fill="url(#bg)"/>
+  <rect x="2" y="2" width="398" height="104" rx="24" fill="none" stroke="url(#brd)" stroke-width="3">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <g clip-path="url(#clip)">
+    <rect x="-460" y="0" width="460" height="108" fill="url(#sweep)">
+      <animate attributeName="x" values="-460;460" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <circle cx="54" cy="54" fill="url(#halo)">
+    <animate attributeName="r" values="38;52;38" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <g transform="translate(54,54) scale(2) translate(-12,-12)" filter="url(#glow)">
+    <path fill="#ffffff" d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>
+  </g>
+
+  <text x="124" y="50" font-family="'Segoe UI','JetBrains Mono',Consolas,monospace" font-size="27" font-weight="800" fill="#ffffff" letter-spacing="1">Telegram</text>
+  <text x="124" y="82" font-family="'Segoe UI','JetBrains Mono',Consolas,monospace" font-size="23" font-weight="700" fill="#7dd3fc" letter-spacing="1">@ElChivalez</text>
+
+  <g>
+    <circle cx="372" cy="18" r="6" fill="#229ED9" opacity="0.25">
+      <animate attributeName="r" values="6;14;6" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0;0.35" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="372" cy="18" r="5" fill="#38bdf8">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
