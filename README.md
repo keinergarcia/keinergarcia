@@ -32,16 +32,6 @@ Me interesa construir software combinando **desarrollo, análisis, diseño, base
 
 También trabajo con **los nuevos modelos de inteligencia artificial**: integro LLMs (OpenAI, Claude, Gemini, DeepSeek, Hugging Face) en productos reales, diseño agentes y automatización inteligente, y aplico técnicas como RAG y prompt engineering para obtener resultados precisos.
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                       ELCHIVALEZ                             │
-│                                                              │
-│  DESARROLLADOR DE SOFTWARE                                  │
-│                                                              │
-│  WEB · DESKTOP · BACKEND · BASES DE DATOS · AUTOMATIZACIÓN │
-└──────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## `> TECNOLOGÍAS`
@@ -273,20 +263,6 @@ Plataforma web que complementa el ecosistema de **AROMIA**, integrando autentica
 </div>
 
 <br>
-
-<div align="center">
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-             ELCHIVALEZ · SOFTWARE
-
-       BUILD  •  LEARN  •  CREATE  •  EVOLVE
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:0ea5e9,70:0f172a,100:020617&height=140&section=footer&animation=twinkling" width="100%" alt="Footer animado"/>
 
