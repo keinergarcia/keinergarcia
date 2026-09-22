@@ -62,47 +62,9 @@ También trabajo con **los nuevos modelos de inteligencia artificial**: integro 
 
 <div align="center">
 
-### Modelos y plataformas con los que trabajo
-
-<a href="https://openai.com">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</a>
-<a href="https://www.anthropic.com/claude">
-<img src="https://img.shields.io/badge/CLAUDE-6f6af8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude"/>
-</a>
-<a href="https://gemini.google.com">
-<img src="https://img.shields.io/badge/GEMINI-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-</a>
-<a href="https://huggingface.co">
-<img src="https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</a>
-<a href="https://www.deepseek.com">
-<img src="https://img.shields.io/badge/DEEPSEEK-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
-</a>
-
-<br><br>
-
-### Especialidades con IA
-
-<img src="https://img.shields.io/badge/LLMs-0ea5e9?style=for-the-badge" alt="LLMs"/>
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-22c55e?style=for-the-badge" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/RAG-7c3aed?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/AGENTES_IA-f43f5e?style=for-the-badge" alt="Agentes IA"/>
-<img src="https://img.shields.io/badge/IA_GENERATIVA-f97316?style=for-the-badge" alt="IA Generativa"/>
-<img src="https://img.shields.io/badge/FINE_TUNING-16a34a?style=for-the-badge" alt="Fine-tuning"/>
-<img src="https://img.shields.io/badge/AUTOMATIZACION_IA-3b82f6?style=for-the-badge" alt="Automatización con IA"/>
+<img src="assets/ia.svg" width="720" alt="Inteligencia Artificial — modelos y especialidades en animación"/>
 
 </div>
-
-Inserto **los últimos modelos de IA** dentro de software real, combinando agentes, conocimiento conectado (RAG) y automatización para construir productos más inteligentes:
-
-```text
-▸ Integración de LLMs (OpenAI · Claude · Gemini · DeepSeek)
-▸ Agentes y automatización con IA
-▸ RAG: conocimiento empresarial conectado a modelos
-▸ Asistentes y chatbots inteligentes
-▸ Optimización de prompts para resultados precisos
-```
 
 ---
 
