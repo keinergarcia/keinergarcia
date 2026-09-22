@@ -178,7 +178,7 @@ Plataforma web que complementa el ecosistema de **AROMIA**, integrando autentica
 
 <a href="https://github.com/keinergarcia?tab=achievements">
 
-<img src="https://img.shields.io/badge/VER_MIS_LOGROS_DE_GITHUB-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Ver logros de GitHub"/>
+<img src="assets/logros.svg" width="680" alt="Logro Quickdraw — abrir y cerrar un issue o PR en menos de 5 minutos"/>
 
 </a>
 
